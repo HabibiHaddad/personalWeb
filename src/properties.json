@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Family Townhouse",
+    "price": "$575,000",
+    "location": "Germantown, MD",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "sqft": "1,858",
+    "image": "https://photos.zillowstatic.com/fp/cedcd22162adcf77bf2094ff016d7fae-cc_ft_768.webp",
+    "status": "For Sale"
+  }
+]
